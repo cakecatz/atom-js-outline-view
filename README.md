@@ -1,5 +1,13 @@
-# js-outline-view package
+# js-outline-view
 
-A short description of your package.
+**THIS PACKAGE IS EXPERIMENTAL**
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+## Install
+
+```bash
+apm install js-outline-view
+```
+
+## LICENSE
+
+MIT
