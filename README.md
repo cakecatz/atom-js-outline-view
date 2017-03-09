@@ -1,4 +1,4 @@
-# babel-outline package
+# js-outline-view package
 
 A short description of your package.
 

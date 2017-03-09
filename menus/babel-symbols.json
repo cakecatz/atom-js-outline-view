@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle babel-outline",
-        "command": "babel-outline:toggle"
+        "label": "Toggle js-outline",
+        "command": "js-outline:toggle"
       }
     ]
   },
@@ -12,11 +12,11 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "babel-outline",
+          "label": "js-outline",
           "submenu": [
             {
               "label": "Toggle",
-              "command": "babel-outline:toggle"
+              "command": "js-outline:toggle"
             }
           ]
         }

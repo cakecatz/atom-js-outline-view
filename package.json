@@ -1,10 +1,10 @@
 {
-  "name": "babel-outline",
+  "name": "js-outline-view",
   "main": "./lib/index.js",
   "version": "0.0.0",
   "description": "A short description of your package",
   "keywords": [],
-  "repository": "https://github.com/atom/babel-outline",
+  "repository": "https://github.com/cakecatz/js-outline-view",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
